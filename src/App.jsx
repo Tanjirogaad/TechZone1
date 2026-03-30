@@ -1,6 +1,6 @@
 import Home from "./pages/Home/Home";
 import Bottomheader from "./components/headers/Bottom-header";
-import Topheader from "./components/headers/top-header";
+import Topheader from "./components/headers/Top-header";
 import Cart from "./pages/Cart";
 import "./index.css";
 import { Route, Routes } from "react-router-dom";
