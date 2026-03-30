@@ -3,9 +3,6 @@ import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
 
-import banner1 from "../../assets/banner_Hero1.jpg";
-import banner2 from "../../assets/banner_Hero2.jpg";
-import banner3 from "../../assets/banner_Hero3.jpg";
 
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Pagination, Autoplay, Navigation } from "swiper/modules";
