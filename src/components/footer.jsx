@@ -71,7 +71,7 @@ export default function Footer() {
                 <div className="copyright">
                     <p> &copy;{new Date().getFullYear()} <span>eman Online Store. </span> all Copyright reserved .</p>
                     <div className="payment">
-                        <img src={"/payment_method.png"} alt="photo" /> 
+                        <img src="https://media.discordapp.net/attachments/1450605485957976167/1488298882030112778/image.png?ex=69cc45d8&is=69caf458&hm=4953874903791d5a50059eed2772a52da80b09101c8d956ab6d85526cef50371&=&format=webp&quality=lossless&width=286&height=46" alt="photo" /> 
                     </div>
                 </div>
             </div>
